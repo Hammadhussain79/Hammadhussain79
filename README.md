@@ -25,6 +25,7 @@ I've always been a person that if something fascinates me then     🔎      I'd
 - [Travel Website](https://github.com/Daniyal-Murtaza/Travel-website)
 - [Flying over itt](https://github.com/Daniyal-Murtaza/Flying-Over-itt)
 - [Ghost Buster](https://github.com/Daniyal-Murtaza/Ghost-Buster)  
+- [Snake Game](https://github.com/Daniyal-Murtaza/snake-game)  
 
 
 ### GitHub Language Stats
