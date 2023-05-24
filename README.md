@@ -10,7 +10,7 @@
 ### **I'm a Web and Mobile development enthusiast!**
 
 
-Hi! My name is Daniyal and I'm a CS sophomore at **Habib University**.
+Hi! My name is Hammad and I'm a CS sinor at senior **Habib University**.
 
 
 I've always been a person that if something fascinates me then     🔎      I'd find out how to do it, so programming has been a perfect fit for me.
